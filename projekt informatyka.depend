@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553633832 source:c:\users\macie\desktop\programowanie\projekt informatyka\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<vector>
+	<ctime>
+
